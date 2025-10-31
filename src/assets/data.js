@@ -1,0 +1,42 @@
+export const data = [
+  {
+    question: "What is the Virtual DOM in React?",
+    option1: "A copy of the real DOM that React keeps in memory",
+    option2: "A JavaScript function that updates the UI manually",
+    option3: "A database used by React to store data",
+    option4: "An HTML file that React renders",
+    ans: 1,
+  },
+  {
+    question: "Which hook is used to manage state in a functional component?",
+    option1: "useEffect",
+    option2: "useState",
+    option3: "useContext",
+    option4: "useReducer",
+    ans: 2,
+  },
+  {
+    question: "What is the purpose of the 'key' prop in React lists?",
+    option1: "To style each element differently",
+    option2: "To identify unique elements and help React optimize rendering",
+    option3: "To bind data to each element",
+    option4: "To store data temporarily",
+    ans: 2,
+  },
+  {
+    question: "Which hook is used to perform side effects like fetching data or updating the DOM?",
+    option1: "useState",
+    option2: "useMemo",
+    option3: "useEffect",
+    option4: "useRef",
+    ans: 3,
+  },
+  {
+    question: "What does JSX stand for?",
+    option1: "JavaScript XML",
+    option2: "Java Syntax Extension",
+    option3: "JavaScript Extension",
+    option4: "JavaScript Execution",
+    ans: 1,
+  },
+];
